@@ -1,5 +1,5 @@
 # KODBUD_WD_02
-# Task 2 — Responsive Landing Page
+# Task 2 - Responsive Landing Page
 
 A fully responsive landing page for a fictional AI startup called **Nexora**, built using **HTML** and **CSS** as part of my Web Development Internship at **KodBud**.
 
@@ -36,4 +36,4 @@ A fully responsive landing page for a fictional AI startup called **Nexora**, bu
 **Mogal Khaja Irfan Ali Baig** | Hyderabad, India
 
 
-⭐ Star the repo if you found it helpful!
+
